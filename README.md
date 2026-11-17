@@ -110,8 +110,8 @@ An academic Machine Learning project analysing education–employment mismatch a
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=prashanthcilveri&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashanth's GitHub statistics" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=prashanthcilveri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=prashanthcilveri&show_icons=true&theme=tokyonight&hide_border=true" alt="Prashanth's GitHub statistics" height="170" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prashanthcilveri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
 </p>
 
 <p align="center">
