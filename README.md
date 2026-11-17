@@ -114,10 +114,6 @@ An academic Machine Learning project analysing education–employment mismatch a
   <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prashanthcilveri&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" height="170" />
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=prashanthcilveri&theme=tokyonight&hide_border=true" alt="GitHub streak" height="170" />
-</p>
-
 ---
 
 ## 📚 Current Learning Focus
